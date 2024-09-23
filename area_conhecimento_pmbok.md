@@ -115,7 +115,21 @@ A Gestão de Stakeholders identifica todas as partes envolvidas no projeto e ger
 Essas áreas de conhecimento são inter-relacionadas e fundamentais para que um projeto atinja seus objetivos dentro do escopo, prazo e orçamento planejados.
 
 
+## Referências
 
+1. Project Management Institute (PMI). **PMBOK® Guide — 6ª Edição**. 2017.
+   - Disponível em: [https://www.pmi.org/pmbok-guide-standards/foundational/pmbok](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok)
+
+2. Vargas, Ricardo. **Manual Prático do Plano de Gerenciamento de Projetos - Usando o PMBOK® Guide**. 2020.
+   - Disponível em: [https://ricardo-vargas.com/pt/books/manual-pratico-pmbok/](https://ricardo-vargas.com/pt/books/manual-pratico-pmbok/)
+
+3. Kerzner, Harold. **Project Management: A Systems Approach to Planning, Scheduling, and Controlling**. 12ª edição. John Wiley & Sons, 2017.
+   - ISBN: 978-1119165354
+
+4. Heldman, Kim. **PMP® Project Management Professional Exam Study Guide**. 9ª edição. Sybex, 2018.
+   - ISBN: 978-1119420903
+
+5. Schwalbe, Kathy. **Gerenciamento de Projetos em Tecnologia da Informação**. 8ª edição. Cengage Learning, 2018.
 
 
 
